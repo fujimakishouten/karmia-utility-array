@@ -1,0 +1,25 @@
+{
+    "name": "karmia-utility-array",
+    "version": "0.1.0",
+    "description": "Karmia utility array module",
+    "homepage": "https://github.com/fujimakishouten/karmia-utility-array",
+    "license": "MIT",
+    "author": "Kazuma Fujimaki <fujimaki-k@fujimakishouten.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fujimakishouten/karmia-utility-array.git"
+    },
+    "scripts": {
+        "test": "./node_modules/.bin/mocha ./test"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": ">=2.4.5",
+        "expect.js": ">=0.3.1"
+    },
+    "engines": {
+        "node": ">=4.0.0"
+    }
+}
