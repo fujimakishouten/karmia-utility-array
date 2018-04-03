@@ -7,5 +7,4 @@ declare class KarmiaUtilityArray {
     difference(list1: Array<any>, list2: Array<any>): Array<any>;
 }
 
-declare function karmia_utility_array(options: object): KarmiaUtilityArray;
-export = karmia_utility_array;
+export = KarmiaUtilityArray;

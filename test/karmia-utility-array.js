@@ -8,7 +8,7 @@
 // Variables
 const expect = require('expect.js'),
     karmia_utility_array = require('../lib'),
-    karray = karmia_utility_array();
+    karray = new karmia_utility_array();
 
 
 // Test
