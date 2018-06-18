@@ -125,7 +125,7 @@ class KarmiaUtilityArray {
 
 
 // Export module
-export = KarmiaUtilityArray;
+export default KarmiaUtilityArray;
 
 
 

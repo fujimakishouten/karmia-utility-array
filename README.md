@@ -3,7 +3,7 @@ Karmia utility array module
 
 ## Usage
 ```JavaScript
-const karmia_utility_array = require('karmia-utility-array'),
+const karmia_utility_array = require('karmia-utility-array').default,
     karray = new karmia_utility_array();
 ```
 
