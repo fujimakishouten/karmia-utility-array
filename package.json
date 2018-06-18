@@ -1,6 +1,6 @@
 {
     "name": "karmia-utility-array",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "description": "Karmia array utility module.",
     "homepage": "https://github.com/fujimakishouten/karmia-utility-array",
     "license": "MIT",
@@ -22,9 +22,9 @@
         "typescript": "^2.8.1"
     },
     "devDependencies": {
+        "@types/expect.js": "^0.3.29",
         "@types/mocha": "^5.0.0",
         "@types/node": "^9.6.2",
-        "@types/expect.js": "^0.3.29",
         "expect.js": "^0.3.1",
         "istanbul": "^1.1.0-alpha.1",
         "mocha": "^5.0.5",
